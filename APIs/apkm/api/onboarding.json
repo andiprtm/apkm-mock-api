@@ -1,0 +1,28 @@
+{
+    "onboarding": [
+      {
+        "id": 1,
+        "title1": "Mulai Cek Kesehatan",
+        "title2": "Mandiri",
+        "image": "https://george-fx.github.io/APIs/dinehub/assets/images/05.jpg",
+        "description1": "Gunakan APKM untuk melakukan pemeriksaan",
+        "description2": "kesehatan standar kapan saja."
+      },
+      {
+        "id": 2,
+        "title1": "Praktis & Tanpa",
+        "title2": "Antri",
+        "image": "https://george-fx.github.io/APIs/dinehub/assets/images/06.jpg",
+        "description1": "Cek tekanan darah, detak jantung, suhu tubuh,",
+        "description2": "dan lainnya dengan cepat & mandiri."
+      },
+      {
+        "id": 3,
+        "title1": "Sehat Jadi Lebih",
+        "title2": "Mudah",
+        "image": "https://george-fx.github.io/APIs/dinehub/assets/images/07.jpg",
+        "description1": "Akses alat cek kesehatan otomatis ",
+        "description2": "24 jam—cukup datang dan periksa."
+      }
+    ]
+  }
